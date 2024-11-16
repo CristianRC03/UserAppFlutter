@@ -127,7 +127,7 @@ class _CuentaDetalleState extends State<CuentaDetalle> {
                     },
                     icon: const Icon(Icons.arrow_back, size: 20),
                     label: const Text(
-                      'Regresar',
+                      'Regresar a inicio',
                       style: TextStyle(fontSize: 18),
                     ),
                     style: FilledButton.styleFrom(
