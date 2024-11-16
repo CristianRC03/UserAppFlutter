@@ -124,7 +124,7 @@ class _CrearCuentaState extends State<CrearCuenta> {
                     },
                     icon: const Icon(Icons.check_circle, size: 20),
                     label: const Text(
-                      'Crear cuenta',
+                      'Guerdar y Ver Perfil',
                       style: TextStyle(fontSize: 18),
                     ),
                     style: FilledButton.styleFrom(
